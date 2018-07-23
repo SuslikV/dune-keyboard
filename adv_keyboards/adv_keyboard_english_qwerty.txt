@@ -1,0 +1,30 @@
+ENG-q     1    2    3    4    5     6    7    8    9   0     BackSpace
+csssssssssksssskssssksssskssssksssskssssksssskssssksssskssssscssssssss
+e------------------------------------------------------------b--------
+[____]    Q    W    R    T    Y    U    I    O    [    ]     /
+cssssssssskssssksssskssssksssskssssksssskssssksssskssssksssssk
+h-------------------------------------------------------------
+_Shift      A    S    D    F    G    H    J    K     L   ?     Enter
+csssssssssksssskssssksssskssssksssskssssksssskssssksssskssssscssssss
+i------------------------------------------------------------a------
+Alt-P1      Z    X    C    V    B    N    M    '     "   ;     #
+csssssssssksssskssssksssskssssksssskssssksssskssssksssskssssskss
+f---------------------------------------------------------------
+                    [_________________]   :     _   -     =    Conf
+csssssssssssssssssssssssssssssssssssssssksssskssssksssskssssscsssss
+h------------------------------------------------------------j-----
+ENG-q     !    @    #    $    %     ^    _    *    -    +     BackSpace
+cssssssssskssssksssskssssksssskssssskssssksssskssssksssskssssscssssssss
+e-------------------------------------------------------------b--------
+[____]    Ä    Ö    ß     Å    Ø     Ã     Í     Ì    Ò   Õ     /
+cssssssssskssssksssskssssksssskssssskssssksssskssssksssskssssskss
+h----------------------------------------------------------------
+_Shift     À    Â     Ç    È     Ê     Û     Ô    Ù    Ï    Î     Enter
+cssssssssskssssksssskssssksssskssssskssssksssskssssksssskssssscssssssss
+i-------------------------------------------------------------a--------
+Alt-P2     ' __ "     +    #    Á     É     Ó    Ú    Ü   Ë
+cssssssssskssssksssskssssksssskssssskssssksssskssssksssskss
+f----------------------------------------------------------
+                    [_________________]       ,    .    Ñ        Conf
+cssssssssssssssssssssssssssssssssssssssssssssskssssksssskssssscssssss
+h-------------------------------------------------------------j------
