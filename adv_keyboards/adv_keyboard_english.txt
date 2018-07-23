@@ -1,0 +1,45 @@
+ENG-f     Z    V    C    H    W    K     BackSpace
+csssssssssksssskssssksssskssssksssskssssscssssssss
+e----------------------------------------b--------
+#  ___    F    I     T    A     L     Y     Enter
+ksssssssssksssskssssksssskssssksssskssssscsssssss
+-----------------------------------------a-------
+_Shift_   G    -     N    E    [____]     +   7   8   9
+cssssssssskssssksssskssssksssscsssssssssskssssksssksssk
+i-----------------------------h------------------------
+Alt(P1)    Q   D    O    R    S     B       -   4   5   6
+cssssssssskssssksssskssssksssskssssksssssksssskssskssskss
+f--------------------------------------------------------
+[____]    ?    J     U    M    P     X      0   1   2   3
+cssssssssskssssksssskssssksssskssssksssssksssskssskssskss
+h--------------------------------------------------------
+ENG-f     Ä    Ö    ß    Å    Ø     Î     BackSpace
+csssssssssksssskssssksssskssssksssskssssscsssssssss
+e----------------------------------------b---------
+#  ___    Ã    Í     Ì    Ò    Õ     Ï     Enter
+ksssssssssksssskssssksssskssssksssskssssscssssss
+-----------------------------------------a------
+_Shift_    Ô    -    Ù    Û   [____]     +   7   8   9
+cssssssssskssssksssskssssksssscssssssssssksssksssksssk
+i-----------------------------h-----------------------
+Alt(P2)    À    Â    Ç    È    Ê     Ë      -   4   5   6
+cssssssssskssssksssskssssksssskssssksssssksssksssksssksss
+f--------------------------------------------------------
+[____]    Á    É    Ó    Ú    Ü    Ñ      0   1   2   3
+csssssssssksssskssssksssskssssksssskssssskssssksssksssk
+h------------------------------------------------------
+ENG-f     ~    `    !    @    #     $     BackSpace
+csssssssssksssskssssksssskssssksssskssssscsssssssss
+e----------------------------------------b---------
+Conf  __ %   *    $    ^     (      )     Enter
+csssssssskssskssssksssskssssskssssskssssscsssss
+j----------------------------------------a-----
+_Shift     _     -    =     /    [____]    +   7   8   9
+csssssssskssskssssksssskssssksssscsssssssksssssksssksssk
+i--------------------------------h----------------------
+Alt(P3)    \     :    ;     '      "     | ____   4   5   6
+cssssssssksssksssskssssksssskssssksssssssksssssksssksssksss
+f----------------------------------------------------------
+[____]     [    ]    {    }     (      )      0   1   2   3
+cssssssssksssksssskssssksssskssskssssssksssssksksssksssksss
+h----------------------------------------------------------
