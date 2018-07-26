@@ -22,7 +22,7 @@ Text (0;0) -> row 0, column 0;
 Type (0;0) -> row 1, column 0;
      (2;0) -> row 7, column 0;
 
-Command (0;0) -> row 0, column 0;
+Command (0;0) -> row 2, column 0;
         (2;0) -> row 8, column 0;
 ```
 The selection logic uses left-bottom to top-right rule to move UP and top-right to left-bottom to move DOWN:
@@ -55,7 +55,7 @@ Example 5.
   move UP
   selected (1;5)
 ```
-The key Text (word) starts from the column of the selection position, leading spaces ignored, ends at first space after non-space symbol
+The key Text (word) starts from the column of the selection position, leading spaces ignored, ends at the first space after non-space symbol
 
 `"   name " --> "name"`
 
@@ -63,9 +63,9 @@ The key Text (word) starts from the column of the selection position, leading sp
 
 `"name"     --> "name"`
 
-The Command CHANGE position should be the same for all keyboards and should start at the selection(0;0)
+The Command CHANGE should be at the the same position for all keyboards and should start at the selection(0;0)
 
-The Text of the SHIFT command should start from the underscore (_) symbol, like "_Shift".
+The Text of the SHIFT command should start from the underscore `_` symbol, like `_Shift`.
 
 Keyboard file, keyboard keys array (15 rows is max per layout, all subsequent rows will split by 15 rows per layout), example:
 ```
