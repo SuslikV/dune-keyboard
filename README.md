@@ -63,7 +63,7 @@ The key Text (word) starts from the column of the selection position, leading sp
 
 `"name"     --> "name"`
 
-The Command CHANGE should be at the the same position for all keyboards and should start at the selection(0;0)
+The Command CHANGE should be at the same position for all keyboards and should start at the selection(0;0)
 
 The Text of the SHIFT command should start from the underscore `_` symbol, like `_Shift`.
 
