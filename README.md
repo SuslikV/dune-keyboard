@@ -120,8 +120,8 @@ e - command CHANGE (layout/language or in other words - read new keyboard file)
 f - command ALT (at least, should change "key value" for regular keys)
 g - command CANCEL (close without search, output string is empty)
 h - command SPACE
-i - command SHIFT (change register)
-j - command CONFIG (rises internal setings window)
+i - command SHIFT (change the register)
+j - command CONFIG (rises internal settings window)
 k - reserved
 ======================================================
 ```
